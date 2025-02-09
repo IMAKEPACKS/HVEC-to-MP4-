@@ -3,4 +3,4 @@ This is a Python project. I made it because apparently the extension for the vid
 # HOW TO RUN
 If you are running pure python code file you will need to put the ffmpeg exe's in the same file directory. 
 
-![Screenshot!](https://imgur.com/a/f2j1rqs)
+![Screenshot!](image_2025-02-09_111316654.png)
